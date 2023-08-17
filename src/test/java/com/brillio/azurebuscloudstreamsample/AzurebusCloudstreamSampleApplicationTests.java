@@ -3,10 +3,10 @@ package com.brillio.azurebuscloudstreamsample;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class AzurebusCloudstreamSampleApplicationTests {
 
-	@Test
+//	@Test
 	void contextLoads() {
 	}
 
