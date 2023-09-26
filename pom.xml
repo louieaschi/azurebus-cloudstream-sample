@@ -60,6 +60,15 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+    <groupId>com.azure</groupId>
+    <artifactId>azure-messaging-servicebus</artifactId>
+    </dependency>
+	<dependency>
+    <groupId>com.microsoft.azure</groupId>
+    <artifactId>azure-servicebus</artifactId>
+    <version>3.6.7</version>
+</dependency>
 	</dependencies>
 	<dependencyManagement>
 		<dependencies>
